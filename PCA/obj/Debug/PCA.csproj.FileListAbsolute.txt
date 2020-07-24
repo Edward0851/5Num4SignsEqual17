@@ -1,0 +1,7 @@
+C:\Users\10697\source\repos\PCA\PCA\bin\Debug\PCA.exe.config
+C:\Users\10697\source\repos\PCA\PCA\bin\Debug\PCA.exe
+C:\Users\10697\source\repos\PCA\PCA\bin\Debug\PCA.pdb
+C:\Users\10697\source\repos\PCA\PCA\obj\Debug\PCA.csprojAssemblyReference.cache
+C:\Users\10697\source\repos\PCA\PCA\obj\Debug\PCA.csproj.CoreCompileInputs.cache
+C:\Users\10697\source\repos\PCA\PCA\obj\Debug\PCA.exe
+C:\Users\10697\source\repos\PCA\PCA\obj\Debug\PCA.pdb
